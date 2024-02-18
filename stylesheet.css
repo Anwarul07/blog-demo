@@ -5,6 +5,10 @@
 .navigation {
   height: 5vw;
   background-color: red;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
 }
 .containt {
   height: 5vw;
@@ -14,3 +18,4 @@
   height: 5vw;
   background-color: blue;
 }
+
