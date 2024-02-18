@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.navigation {
+  height: 5vw;
+  background-color: red;
+}
+.containt {
+  height: 5vw;
+  background-color: green;
+}
+.footer {
+  height: 5vw;
+  background-color: blue;
+}
