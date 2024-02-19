@@ -14,12 +14,11 @@
 .navigation {
   font-family: var(--font2);
   height: 5vw;
-  background-color: red;
   display: flex;
   justify-content: space-around;
   align-items: center;
-  color: white;
   font-size: 1.52vw;
+  margin-top: 4vw;
 }
 .nav-left ul {
   list-style: none;
@@ -27,7 +26,6 @@
   justify-content: baseline;
 }
 .nav-left li a {
-  color: white;
   text-decoration: none;
   padding-left: 1vw;
 }
@@ -41,10 +39,9 @@
     width:4vw;
 }
 .containt {
-  padding-top:2vw ;
+  padding-top:4vw ;
   display: flex;
   height: 30vw;
-  /* background-color: green; */
 }
 .containt-left{
   padding: 1vw;
@@ -54,6 +51,7 @@
 }
 .containt-right{
  width: 50%; 
+ margin-left: 5.75vw;
 }
 .footer {
   height: 5vw;
