@@ -26,6 +26,7 @@
   justify-content: baseline;
 }
 .nav-left li a {
+  color: black;
   text-decoration: none;
   padding-left: 1vw;
 }

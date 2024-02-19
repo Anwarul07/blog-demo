@@ -10,16 +10,20 @@
 .btn {
   padding: 0.75vw 1vw 0.75vw 1vw;
   font-size: 1.5vw;
-  background-color: rgba(255, 149, 0, 0.889);
+  background-color: red;
   border-radius: 2vw;
   border: none;
   outline: none;
   position: relative;
-  right: 7.75vw;
+  right: 7.65vw;
   text-align: center;
   font-family: var(--font2);
   cursor: pointer;
+  transition: all 0.3s ease-in-out;
 
+}
+.btn:hover{
+    background-color:green;
 }
 input {
   font-family: var(--font2);
@@ -31,7 +35,7 @@ input {
   width: 25vw;
 }
 .containt-left h2{
-    margin-top: 7vw;
+    margin-top: 3vw;
     margin-bottom: 0.5vw;
 }
 .containt-right img{
