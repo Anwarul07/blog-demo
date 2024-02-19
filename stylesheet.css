@@ -41,8 +41,19 @@
     width:4vw;
 }
 .containt {
-  height: 5vw;
-  background-color: green;
+  padding-top:2vw ;
+  display: flex;
+  height: 30vw;
+  /* background-color: green; */
+}
+.containt-left{
+  padding: 1vw;
+  font-size: 1.5vw;
+  font-family: var(--font2);
+  width:50%;
+}
+.containt-right{
+ width: 50%; 
 }
 .footer {
   height: 5vw;
