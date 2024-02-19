@@ -1,12 +1,31 @@
-.m-auto{
-    margin: auto;
+.m-auto {
+  margin: auto;
 }
-.max-width1{
-max-width: 80vw;
+.max-width1 {
+  max-width: 80vw;
 }
-.max-width2{
-max-width: 60vw;
+.max-width2 {
+  max-width: 60vw;
 }
-.btn{
-    
+.btn {
+  padding: 0.75vw 1vw 0.75vw 1vw;
+  font-size: 1.5vw;
+  background-color: rgba(255, 149, 0, 0.889);
+  border-radius: 2vw;
+  border: none;
+  outline: none;
+  position: relative;
+  right: 7.5vw;
+  text-align: center;
+  font-family: var(--font2);
+
+}
+input {
+  font-family: var(--font2);
+  font-size: 1.5vw;
+  padding: 0.75vw;
+  border-radius: 2vw;
+  border: none;
+  outline: none;
+  width: 25vw;
 }
