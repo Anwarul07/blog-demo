@@ -30,29 +30,29 @@
   text-decoration: none;
   padding-left: 1vw;
 }
-.nav-left{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.nav-left {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-.logo img{
-    height:4vw;
-    width:4vw;
+.logo img {
+  height: 4vw;
+  width: 4vw;
 }
 .containt {
-  padding-top:4vw ;
+  padding-top: 4vw;
   display: flex;
   height: 30vw;
 }
-.containt-left{
+.containt-left {
   padding: 1vw;
   font-size: 1.5vw;
   font-family: var(--font2);
-  width:50%;
+  width: 50%;
 }
-.containt-right{
- width: 50%; 
- margin-left: 5.75vw;
+.containt-right {
+  width: 50%;
+  margin-left: 5.75vw;
 }
 .footer {
   height: 5vw;
