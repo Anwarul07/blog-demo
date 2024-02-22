@@ -22,7 +22,8 @@
   transition: all 0.3s ease-in-out;
 }
 .btn:hover {
-  background-color: green;
+  background-color: #294b29;
+  color: white;
 }
 input {
   font-family: var(--font2);
@@ -42,4 +43,13 @@ input {
   padding: 2vw;
   width: 25vw;
   height: 25vw;
+}
+.footer a {
+  color: rgba(199, 29, 29, 0.955);
+  text-decoration: none;
+}
+
+.footer {
+  margin-top: 0.5vw;
+  margin-bottom: 2vw;
 }
