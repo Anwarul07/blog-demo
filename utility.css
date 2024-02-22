@@ -37,6 +37,7 @@ input {
 .containt-left h2 {
   margin-top: 3vw;
   margin-bottom: 0.5vw;
+  font-size: 3vw;
 }
 .containt-right img {
   border-radius: 3vw;
@@ -47,6 +48,7 @@ input {
 .footer a {
   color: rgba(199, 29, 29, 0.955);
   text-decoration: none;
+  font-size: 1.5vw;
 }
 
 .footer {
@@ -63,8 +65,11 @@ input {
 }
 .info h3{
   font-size: large;
-  font-weight:400;
+  font-size: 2.25vw;
+  font-weight:450;
 }
 .info span{
   font-size:x-small;
+  font-size: 1.25vw;
+
 }
