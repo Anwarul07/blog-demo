@@ -1,0 +1,26 @@
+#main {
+    color: red;
+}
+
+.article-main p {
+    font-family: var(--font1);
+    font-size: 1.5vw;
+}
+
+.article-main {
+    margin-bottom: 10vw;
+}
+
+.article-main h2 {
+    margin-bottom: 1vw;
+}
+
+.span span {
+    font-size: 1.25vw;
+    font-family: var(--font1);
+}
+.span{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1vw;
+}
