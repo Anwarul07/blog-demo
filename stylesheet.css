@@ -65,6 +65,8 @@
   height: inherit;
   position: absolute;
   opacity: 0.25;
+  z-index: -1;
+
 }
 .containt-left {
   padding: 1vw;

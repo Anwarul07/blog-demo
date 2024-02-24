@@ -1,0 +1,19 @@
+.img-sub img{
+    height: 6vw;
+    border-radius: 4vw;
+
+}
+.center{
+    margin: auto;
+}
+.submit{
+    margin-left:7vw;
+}
+.info a{
+    color:white;
+    text-decoration: none;
+}
+.info p i{
+    margin-bottom:0.5vw;
+    color: red;
+}
