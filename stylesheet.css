@@ -111,8 +111,7 @@
   color: red;
 }
 .article{
-  margin-top: -2vw;
-  margin-bottom: -2vw;
+  margin: 1vw;
   display: flex;
   font-size: 0.5vw;
 }
